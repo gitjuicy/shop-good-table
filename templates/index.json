@@ -195,16 +195,19 @@
     },
     "83b6ab39-5589-4692-90ce-3c4c7f7ecb39": {
       "type": "featured-collection",
+      "custom_css": [
+        "{text-align:center;}"
+      ],
       "settings": {
         "title": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
         "heading_size": "h1",
         "description": "<p>START YOUR CAPSULE NOW<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "our-capsules",
         "products_to_show": 2,
         "columns_desktop": 4,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
