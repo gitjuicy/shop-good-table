@@ -193,252 +193,59 @@
         "accessibility_info": ""
       }
     },
-    "b2acb399-4413-4007-a959-cd856d399b9a": {
-      "type": "image-with-text",
-      "disabled": true,
+    "04d17b4c-fc49-4435-8ae6-1167ce6ba39d": {
+      "type": "rich-text",
       "blocks": {
-        "3d593d08-6261-4ad2-889d-d661eaccfee0": {
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Delicious and Nutritious Meals for Every Day<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "d40c24c1-6902-4416-a819-54b8908dee72": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We know that the hardest part of cooking healthy meals is often finding the right ingredients. That's why we've created a solution that makes it easy to get everything you need to cook delicious, heart-healthy meals at home.<\/p><p>Our solution includes a variety of healthy ingredients, as well as recipes and meal plans to help you get started. So whether you're a beginner or a seasoned cook, cooking for yourself, or a loved one, we have something for you.<\/p><p>Join us so you can finally enjoy the delicious and nutritious meals you deserve.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "a1bf7f20-6492-4580-be9b-e8c202dd95bd": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Coming Soon",
-            "button_link": ""
-          }
-        },
-        "848916d9-7be7-47c4-92b2-86813d7a8731": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "3d593d08-6261-4ad2-889d-d661eaccfee0",
-        "d40c24c1-6902-4416-a819-54b8908dee72",
-        "a1bf7f20-6492-4580-be9b-e8c202dd95bd",
-        "848916d9-7be7-47c4-92b2-86813d7a8731"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/global_capsule_kitchen_7f1882a9-c073-4681-be80-5649b6b4c66f.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 88,
-        "padding_bottom": 88
-      }
-    },
-    "f96a9b72-a8a3-4c72-ba44-36a33c25039b": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-title-1": {
-          "type": "title",
-          "settings": {
+            "heading": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
             "heading_size": "h1"
           }
         },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-price-1": {
-          "type": "price",
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-text-1": {
+          "type": "text",
           "settings": {
+            "text": "<p>START YOUR CAPSULE NOW<\/p>"
           }
         },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-variant_picker-1": {
-          "type": "variant_picker",
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-button-1": {
+          "type": "button",
           "settings": {
-            "picker_type": "button"
+            "button_label": "Chinese Capsule",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Mediterranean Capsule",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-text-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-title-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-price-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-variant_picker-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-quantity_selector-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-buy_buttons-1",
-        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-share-1"
-      ],
-      "settings": {
-        "product": "",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "69f40509-5aff-4a6a-b297-dc68b6916667": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "60ba9ebb-1542-4b39-b1b3-cb98501011e7": {
-          "type": "slide",
+        "904dd4f7-a953-47f9-961e-529f3b76ee67": {
+          "type": "button",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg",
-            "heading": "Mediterranean Kit",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Coming Soon",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "56fae065-186b-40a3-a768-859e8ba43f84": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg",
-            "heading": "Mediterranean Kit",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Coming Soon",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "9eaa2d67-cc54-4466-9e72-0ba6f7a6eafd": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg",
-            "heading": "Mediterranean Kit",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Coming Soon",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "42ec9e35-06e3-4340-b408-7c91165a9862": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-chinese-medicine-ingredients-of-the-dishes-prepared-with-medicinal-herbs-dish-570874801.jpg",
-            "heading": "Chinese Cuisine Kit",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Coming Soon",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "77c4d374-2e88-43ce-8fc4-d66a8726201d": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-various-herbs-and-spices-on-black-background-top-view-1835816035.jpg",
-            "heading": "Mediterranean Kit",
-            "heading_size": "h1",
-            "subheading": "",
             "button_label": "Button label",
-            "link": "",
+            "button_link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "60ba9ebb-1542-4b39-b1b3-cb98501011e7",
-        "56fae065-186b-40a3-a768-859e8ba43f84",
-        "9eaa2d67-cc54-4466-9e72-0ba6f7a6eafd",
-        "42ec9e35-06e3-4340-b408-7c91165a9862",
-        "77c4d374-2e88-43ce-8fc4-d66a8726201d"
-      ],
-      "custom_css": [
-        ".banner__box {border-width: 10px; border-color: #ef503e; border-radius: 30px;}",
-        "h2 {line-height: 55px;}"
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-heading-1",
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-text-1",
+        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-button-1",
+        "904dd4f7-a953-47f9-961e-529f3b76ee67"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "32c3173a-ec15-463f-8c19-4788c9f028f2": {
@@ -586,9 +393,7 @@
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
-    "b2acb399-4413-4007-a959-cd856d399b9a",
-    "f96a9b72-a8a3-4c72-ba44-36a33c25039b",
-    "69f40509-5aff-4a6a-b297-dc68b6916667",
+    "04d17b4c-fc49-4435-8ae6-1167ce6ba39d",
     "32c3173a-ec15-463f-8c19-4788c9f028f2",
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
     "0d887d20-f314-4326-a8e4-aa6b69262b7a"
