@@ -5,6 +5,73 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
+
+    <!-- OneTrust Cookies Consent Notice start for shopgoodtable.com -->
+    <script
+      src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      data-document-language="true"
+      type="text/javascript"
+      charset="UTF-8"
+      data-domain-script="5b70ea1c-b570-4a9b-a296-5798ec1f8fef-test"></script>
+    <script>
+      const performanceCookieCategory = 'C0002,';
+      function waitForOneTrust() {
+        hasOneTrustLoaded();
+        let attempts = 0;
+        const interval = setInterval(function () {
+          if (hasOneTrustLoaded() || attempts > 100){
+            clearInterval(interval);
+          }
+          attempts++;
+        }, 100)
+      }
+
+      function hasOneTrustLoaded() {
+        if (typeof window.OnetrustActiveGroups === 'string') {
+          //check now
+          optanonWrapper()
+          // and wrap and trigger after cookie opt-in
+          window.OptanonWrapper = optanonWrapper;
+          return true;
+        }
+        return false;
+      }
+
+      function sendConsent(trackingConsent) {
+        window.Shopify.customerPrivacy.setTrackingConsent(trackingConsent, () => {
+          console.log('Happy Days')
+        });
+      }
+
+      function optanonWrapper() {
+        if (typeof(OneTrust) !== 'undefined') {
+          OneTrust.OnConsentChanged(function() {
+            location.reload();
+          });
+        }
+        const trackingConsent = !!window.OnetrustActiveGroups.includes(performanceCookieCategory);
+        window.Shopify.loadFeatures(
+          [
+            {
+              name: 'consent-tracking-api',
+              version: '0.1',
+            },
+          ],
+          error => {
+            if (error) {
+              throw error;
+            }
+            sendConsent(trackingConsent)
+          },
+        );
+      }
+
+      (function () {
+        waitForOneTrust();
+      })();
+    </script>
+    <!-- OneTrust Cookies Consent Notice end for shopgoodtable.com -->
+
     <link rel="canonical" href="{{ canonical_url }}">
 
     {%- if settings.favicon != blank -%}

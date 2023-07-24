@@ -28,6 +28,15 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+  .customize-settings {
+    margin-right: 6px;
+  }
+  .privacy-options-icon {
+    max-height: 1.1em;
+    margin-left: 6px;
+    position: relative;
+    top: 4px;
+  }
 {%- endstyle -%}
 
 <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
@@ -93,9 +102,44 @@
                       <ul class="footer-block__details-content list-unstyled">
                         {%- for link in block.settings.menu.links -%}
                           <li>
-                           <a href="{{ link.url }}" target="_blank" class="link link--text list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}">
+                            <a
+                              href="{{ link.url }}"
+                              target="_blank"
+                              class="link link--text list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}"
+                              role="{% if link.title == 'Customize Cookie Settings' %}button{% else %}link{% endif %}"
+                            >
+                              {%- if link.title == 'Customize Cookie Settings' -%}
+                                <img
+                                  src="{{ 'customize.svg' | file_url }}"
+                                  alt="Customize settings"
+                                  class="customize-settings"
+                                  loading="lazy"
+                                  width="15"
+                                  height="15"
+                                />
+                              {%- endif -%}
                               {{ link.title }}
+                              {%- if link.title == 'Legal Terms' or link.title == 'Privacy Policy' or link.title == 'Your Privacy Choices' or link.title == 'Cookie Notice' -%}
+                                <img
+                                  src="{{ 'new-window.svg' | file_url }}"
+                                  alt="Open in New Window"
+                                  class="new-window-icon"
+                                  loading="lazy"
+                                  width="12"
+                                  height="12"
+                                />
+                              {%- endif -%}
                             </a>
+                            {%- if link.title == 'Your Privacy Choices' -%}
+                              <img
+                                src="{{ 'privacy-options-icon.png' | file_url }}"
+                                alt="California Consumer Privacy Act Opt-Out"
+                                class="privacy-options-icon"
+                                loading="lazy"
+                                width="38.5"
+                                height="18.5"
+                              />
+                            {%- endif -%}
                           </li>
                         {%- endfor -%}
                       </ul>
