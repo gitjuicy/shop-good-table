@@ -84,6 +84,7 @@
         "h3 {line-height: 55px;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/global_capsule_kitchen.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
