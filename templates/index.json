@@ -371,7 +371,7 @@
         "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>With Global Capsule, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
+            "heading": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -388,12 +388,22 @@
             "button_label": "Coming Soon",
             "button_link": ""
           }
+        },
+        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
         "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1"
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
+        "420f9ed5-3514-405d-b3ff-1e3acec19515"
       ],
       "custom_css": [
         ".global-media-settings {border-width: 10px; border-color: #0075bd; border-radius: 30px;}",
