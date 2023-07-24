@@ -25,7 +25,6 @@
         "slide-0"
       ],
       "custom_css": [
-        ".banner__box.gradient {border-width: 10px; border-color: #0075bd; border-radius: 30px;}",
         "h2 {line-height: 55px;}"
       ],
       "settings": {
