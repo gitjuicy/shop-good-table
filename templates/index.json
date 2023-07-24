@@ -110,6 +110,62 @@
         "padding_bottom": 52
       }
     },
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
+            "title": "8 Ingredients in a box",
+            "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
+            "title": "Add Protein & Veggies",
+            "text": "<p>Add your own veggies and protein, and we'll take care of the rest.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
+            "title": "Many, Many Winning Meals",
+            "text": "<p>Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 76
+      }
+    },
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
       "type": "image-with-text",
       "blocks": {
@@ -167,60 +223,74 @@
         "padding_bottom": 88
       }
     },
-    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
-      "type": "multicolumn",
+    "f96a9b72-a8a3-4c72-ba44-36a33c25039b": {
+      "type": "featured-product",
+      "disabled": true,
       "blocks": {
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
-          "type": "column",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-text-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
-            "title": "8 Ingredients in a box",
-            "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
           }
         },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
-          "type": "column",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-title-1": {
+          "type": "title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
-            "title": "Add Protein & Veggies",
-            "text": "<p>Add your own veggies and protein, and we'll take care of the rest.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading_size": "h1"
           }
         },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
-          "type": "column",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-price-1": {
+          "type": "price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
-            "title": "Many, Many Winning Meals",
-            "text": "<p>Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
-            "link_label": "",
-            "link": ""
+          }
+        },
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-text-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-title-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-price-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-variant_picker-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-quantity_selector-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-buy_buttons-1",
+        "template--20021976596763__f96a9b72-a8a3-4c72-ba44-36a33c25039b-share-1"
       ],
       "settings": {
-        "title": "How it works",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 76
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d": {
@@ -471,7 +541,7 @@
         "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>With Global Capsule, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
+            "heading": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -517,8 +587,9 @@
     "slideshow",
     "featured-collection-0",
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
+    "f96a9b72-a8a3-4c72-ba44-36a33c25039b",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
     "69f40509-5aff-4a6a-b297-dc68b6916667",
     "32c3173a-ec15-463f-8c19-4788c9f028f2"
