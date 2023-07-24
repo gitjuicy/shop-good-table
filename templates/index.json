@@ -86,7 +86,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/global_capsule_kitchen_7f1882a9-c073-4681-be80-5649b6b4c66f.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -195,6 +195,7 @@
     },
     "b2acb399-4413-4007-a959-cd856d399b9a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "3d593d08-6261-4ad2-889d-d661eaccfee0": {
           "type": "heading",
