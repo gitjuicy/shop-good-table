@@ -365,8 +365,56 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "32c3173a-ec15-463f-8c19-4788c9f028f2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>With Global Capsule, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "START YOUR CAPSULE NOW",
+            "text_style": "body"
+          }
+        },
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Chinese Capsule",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Mediterean Capsule",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1",
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1",
+        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
           "type": "heading",
@@ -422,53 +470,6 @@
         "padding_top": 88,
         "padding_bottom": 88
       }
-    },
-    "32c3173a-ec15-463f-8c19-4788c9f028f2": {
-      "type": "image-banner",
-      "blocks": {
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>With Global Capsule, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "START YOUR CAPSULE NOW",
-            "text_style": "body"
-          }
-        },
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Chinese Capsule",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Mediterean Capsule",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1",
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1",
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -477,7 +478,7 @@
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
     "69f40509-5aff-4a6a-b297-dc68b6916667",
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
-    "32c3173a-ec15-463f-8c19-4788c9f028f2"
+    "32c3173a-ec15-463f-8c19-4788c9f028f2",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf"
   ]
 }
