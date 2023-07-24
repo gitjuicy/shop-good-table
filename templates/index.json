@@ -475,19 +475,18 @@
     },
     "0d887d20-f314-4326-a8e4-aa6b69262b7a": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "About The Team",
             "heading_size": "h1"
           }
         },
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-text-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "We are a team guided by one purpose: to make heart-healthy living more joyful.We believe it starts with food. Our carefully sourced ingredients and thoughtfully crafted recipes aim to empower you to make every meal a nourishing one for you and your family.",
             "text_style": "body"
           }
         },
