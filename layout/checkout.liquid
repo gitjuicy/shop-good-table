@@ -50,5 +50,34 @@
     </div>
 
     {{ tracking_code }}
+
+    <script>
+      // Checkboxes
+      setInterval(function() {
+        var fieldset = document.querySelector('.fieldset-description');
+        if (fieldset) {
+          var addressFields = document.querySelector('.address-fields');
+          fieldset.className = 'field field--show-floating-label';
+          addressFields.parentNode.insertBefore(fieldset, addressFields.nextSibling);
+          fieldset.querySelector('label[for=checkout_buyer_accepts_marketing]').textContent = "Keep me up to date on Shop Good Table news and offers by email.";
+          var checkbox = document.createElement('div');
+          checkbox.innerHTML = '<div class="field field--show-floating-label" data-buyer-accepts-marketing="">' +
+              '<div class="section__content">' +
+              '  <div class="checkbox-wrapper">' +
+              '    <div class="checkbox__input">' +
+              '      <input name="checkout[attributes][share_with_gm]" type="hidden" value="0" autocomplete="off"><input class="input-checkbox" data-backup="X" type="checkbox" value="1" name="checkout[attributes][share_with_gm]" id="checkout_share_with_gm" required>' +
+              '    </div>' +
+              '    <label class="checkbox__label" for="checkout_share_with_gm">I accept the General Mills <a href="https://www.generalmills.com/privacy-security/us-english-privacy-policy" target="_blank">Privacy Policy</a> and agree that my information may be used across the General Mills <a href="https://www.generalmills.com/food-we-make/brands" target="_blank">family of brands</a>. I also agree to the <a href="/pages/shipping-policy" target="_blank">Shipping</a> and <a href="/pages/return-policy" target="_blank">Returns</a> policies and  understand that Shop Good Table may send me emails relating to this specific transaction/purchase.</label></div>' +
+              '    <!--p style="margin-left: 28.5px;">By continuing, you agree to our <a href="https://www.generalmills.com/en/Company/privacy-policies/privacy-policy-cookie-US-English" target="_blank">Privacy Policy</a> and <a href="https://www.generalmills.com/en/Company/legal-terms" target="_blank">Terms</a>. All transactions are subject to our <a href="/pages/shipping-policy" target="_blank">Shipping</a> and <a href="/pages/return-policy" target="_blank">Return policies</a>.</p-->' +
+              '  </div>' +
+              '</div>';
+          addressFields.parentNode.insertBefore(checkbox, fieldset);
+          document.querySelector("input[name='checkout[remember_me]']").closest('.field').style.display = 'none';
+          document.getElementById('checkout_buyer_accepts_marketing').checked = false;
+          document.getElementById('checkout_share_with_gm').checked = false; //{% if checkout.attributes.share_with_gm == '0' %}false{% else %}true{% endif %};
+          document.querySelector('form.edit_checkout').removeAttribute('novalidate');
+        }
+      }, 250);
+    </script>
   </body>
 </html>
