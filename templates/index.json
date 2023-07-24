@@ -58,6 +58,7 @@
         },
         "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Coming Soon",
             "button_link": ""
@@ -105,7 +106,7 @@
             "heading": "Introducing Global Capsule Kitchen",
             "heading_size": "h1",
             "subheading": "You've heard how a capsule wardrobe can simplify your style.  Well, the same goes for your cooking.  Why drown in a sea of recipes and ingredients for everyday cooking?With our mix-and-match shelf stable essentials, you'll have the freedom to create delicious meals with ease. Just add your own protein and veggies.Make home cooking a joy, not a chore, with our curated collection of recipes and ingredients  from around the world that's tailored to your health and taste.",
-            "button_label": "Button label",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -131,7 +132,7 @@
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": ""
       }
     },
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
