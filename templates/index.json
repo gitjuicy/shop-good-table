@@ -121,7 +121,6 @@
         "1df4e65f-423b-43d6-b2fb-81a7edf80cbb"
       ],
       "custom_css": [
-        ".banner__box {border-width: 10px; border-color: #178298; border-radius: 30px;}",
         "h2 {line-height: 55px;}"
       ],
       "settings": {
