@@ -39,6 +39,101 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
+            "title": "8 Ingredients in a box",
+            "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
+            "title": "Add Protein & Veggies",
+            "text": "<p>Add your own veggies and protein, and we'll take care of the rest.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
+            "title": "Many, Many Winning Meals",
+            "text": "<p>Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 76
+      }
+    },
+    "ffb7efe3-349e-45d4-8b7e-4aaf066d041d": {
+      "type": "slideshow",
+      "blocks": {
+        "1df4e65f-423b-43d6-b2fb-81a7edf80cbb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stock-photo-various-herbs-and-spices-on-gray-grunge-background-1407193322.jpg",
+            "heading": "<em>Introducing <\/em>Global Capsule Kitchen",
+            "heading_size": "h1",
+            "subheading": "You've heard how a capsule wardrobe can simplify your style.  Well, the same goes for your cooking.  Why drown in a sea of recipes and ingredients for everyday cooking?With our mix-and-match shelf stable essentials, you'll have the freedom to create delicious meals with ease. Just add your own protein and veggies.Make home cooking a joy, not a chore, with our curated collection of recipes and ingredients  from around the world that's tailored to your health and taste.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1df4e65f-423b-43d6-b2fb-81a7edf80cbb"
+      ],
+      "custom_css": [
+        "h2 {line-height: 55px;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
       "type": "image-with-text",
       "blocks": {
@@ -96,101 +191,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 88,
         "padding_bottom": 88
-      }
-    },
-    "ffb7efe3-349e-45d4-8b7e-4aaf066d041d": {
-      "type": "slideshow",
-      "blocks": {
-        "1df4e65f-423b-43d6-b2fb-81a7edf80cbb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stock-photo-various-herbs-and-spices-on-gray-grunge-background-1407193322.jpg",
-            "heading": "<em>Introducing <\/em>Global Capsule Kitchen",
-            "heading_size": "h1",
-            "subheading": "You've heard how a capsule wardrobe can simplify your style.  Well, the same goes for your cooking.  Why drown in a sea of recipes and ingredients for everyday cooking?With our mix-and-match shelf stable essentials, you'll have the freedom to create delicious meals with ease. Just add your own protein and veggies.Make home cooking a joy, not a chore, with our curated collection of recipes and ingredients  from around the world that's tailored to your health and taste.",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1df4e65f-423b-43d6-b2fb-81a7edf80cbb"
-      ],
-      "custom_css": [
-        "h2 {line-height: 55px;}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": ""
-      }
-    },
-    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
-            "title": "8 Ingredients in a box",
-            "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
-            "title": "Add Protein & Veggies",
-            "text": "<p>Add your own veggies and protein, and we'll take care of the rest.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
-            "title": "Many, Many Winning Meals",
-            "text": "<p>Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
-      ],
-      "settings": {
-        "title": "How it works",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 76
       }
     },
     "f96a9b72-a8a3-4c72-ba44-36a33c25039b": {
@@ -526,9 +526,9 @@
   },
   "order": [
     "slideshow",
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
-    "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
+    "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "f96a9b72-a8a3-4c72-ba44-36a33c25039b",
     "69f40509-5aff-4a6a-b297-dc68b6916667",
     "32c3173a-ec15-463f-8c19-4788c9f028f2",
