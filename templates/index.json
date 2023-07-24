@@ -244,12 +244,13 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 68,
+        "padding_bottom": 68
       }
     },
     "32c3173a-ec15-463f-8c19-4788c9f028f2": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1": {
           "type": "heading",
