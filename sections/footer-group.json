@@ -8,24 +8,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Follow Along</strong>"
+            "heading": "<strong>Follow Along<\/strong>"
           }
         },
         "paragraph_1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Keep me updated about Shop Good  Table news, reminders, and offers by email.</p>"
+            "text": "<p>Keep me updated about Shop Good  Table news, reminders, and offers by email.<\/p>"
           }
         },
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>By subscribing you are accepting our <a href='https://www.generalmills.com/privacy-security/us-english-privacy-policy' target='_blank'>Privacy Policy</a> and agreeing that your information may be used across our <a href='https://www.generalmills.com/food-we-make/brands' target='_blank'>family of brands</a>.</p>"
+            "text": "<p>By subscribing you are accepting our <a href='https:\/\/www.generalmills.com\/privacy-security\/us-english-privacy-policy' target='_blank'>Privacy Policy<\/a> and agreeing that your information may be used across our <a href='https:\/\/www.generalmills.com\/food-we-make\/brands' target='_blank'>family of brands<\/a>.<\/p>"
           }
         },
         "email-form": {
           "type": "email_form",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -47,7 +48,7 @@
         "0d134548-c359-4082-a41a-9b96902d8977": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/website_deisgn.png",
+            "image": "shopify:\/\/shop_images\/website_deisgn.png",
             "image_width": 175,
             "alignment": ""
           }
