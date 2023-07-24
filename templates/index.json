@@ -125,6 +125,7 @@
     },
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--19936956678427__ffb7efe3-349e-45d4-8b7e-4aaf066d041d-slide-1": {
           "type": "slide",
@@ -245,6 +246,7 @@
     },
     "69f40509-5aff-4a6a-b297-dc68b6916667": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "60ba9ebb-1542-4b39-b1b3-cb98501011e7": {
           "type": "slide",
@@ -398,7 +400,6 @@
         "h2 {line-height: 55px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/kits-10_1355b843-c45b-4fca-9b2f-0af8ec3ddf93.gif",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
