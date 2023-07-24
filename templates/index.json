@@ -68,47 +68,61 @@
         "padding_bottom": 60
       }
     },
-    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749": {
-      "type": "rich-text",
-      "disabled": true,
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
+      "type": "image-with-text",
       "blocks": {
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>How to make home-cooking easier?<\/strong>",
+            "heading": "<strong>How to make home cooking easier?<\/strong>",
             "heading_size": "h2"
           }
         },
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1": {
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Whether you love it or hate it, one thing remains certain – feeding ourselves and our loved ones everyday can be a daunting task. <\/p><p>The job is only that much harder, when you want to eat heart-healthy. <\/p><p>The hardest part to getting a healthy delicious meal is not having the right ingredients. We have a solution for that.<\/p>"
+            "text": "<p>Whether you love it or hate it, one thing remains certain – feeding ourselves and our loved ones everyday can be a daunting task. <\/p><p>The job is only that much harder, when you want to eat heart-healthy. <\/p><p>The hardest part to getting a healthy delicious meal is not having the right ingredients. We have a solution for that.<\/p>",
+            "text_style": "body"
           }
         },
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1": {
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Coming Soon",
+            "button_link": ""
+          }
+        },
+        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1",
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1",
-        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1"
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
+        "420f9ed5-3514-405d-b3ff-1e3acec19515"
+      ],
+      "custom_css": [
+        "h3 {line-height: 55px;}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 88,
+        "padding_bottom": 88
       }
     },
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
@@ -165,63 +179,6 @@
         "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 76
-      }
-    },
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>How to make home cooking easier?<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Whether you love it or hate it, one thing remains certain – feeding ourselves and our loved ones everyday can be a daunting task. <\/p><p>The job is only that much harder, when you want to eat heart-healthy. <\/p><p>The hardest part to getting a healthy delicious meal is not having the right ingredients. We have a solution for that.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Coming Soon",
-            "button_link": ""
-          }
-        },
-        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
-        "420f9ed5-3514-405d-b3ff-1e3acec19515"
-      ],
-      "custom_css": [
-        "h3 {line-height: 55px;}"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 88,
-        "padding_bottom": 88
       }
     },
     "f96a9b72-a8a3-4c72-ba44-36a33c25039b": {
@@ -582,17 +539,60 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>How to make home-cooking easier?<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you love it or hate it, one thing remains certain – feeding ourselves and our loved ones everyday can be a daunting task. <\/p><p>The job is only that much harder, when you want to eat heart-healthy. <\/p><p>The hardest part to getting a healthy delicious meal is not having the right ingredients. We have a solution for that.<\/p>"
+          }
+        },
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1",
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1",
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collection-0",
-    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
-    "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "f96a9b72-a8a3-4c72-ba44-36a33c25039b",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
     "69f40509-5aff-4a6a-b297-dc68b6916667",
-    "32c3173a-ec15-463f-8c19-4788c9f028f2"
+    "32c3173a-ec15-463f-8c19-4788c9f028f2",
+    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749"
   ]
 }
