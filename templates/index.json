@@ -12,7 +12,7 @@
             "button_label": "Buy Now",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "middle-right",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -73,8 +73,8 @@
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>How to make home cooking easier?<\/strong>",
-            "heading_size": "h1"
+            "heading": "<strong>How to make home-cooking easier?<\/strong>",
+            "heading_size": "h2"
           }
         },
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1": {
@@ -156,7 +156,7 @@
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
