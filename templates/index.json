@@ -69,6 +69,7 @@
     },
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
           "type": "heading",
@@ -150,8 +151,7 @@
         "420f9ed5-3514-405d-b3ff-1e3acec19515"
       ],
       "custom_css": [
-        ".global-media-settings {border-width: 10px; border-color: #0075bd; border-radius: 30px;}",
-        "h2 {line-height: 55px;}"
+        "h3 {line-height: 55px;}"
       ],
       "settings": {
         "height": "adapt",
