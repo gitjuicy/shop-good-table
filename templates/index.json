@@ -39,6 +39,65 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Introducing <\/em>Global Capsule Kitchen",
+            "heading_size": "h2"
+          }
+        },
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You've heard how a capsule wardrobe can simplify your style. Well, the same goes for your cooking. Why drown in a sea of recipes and ingredients for everyday cooking? With our mix-and-match shelf stable essentials, you'll have the freedom to create delicious meals with ease. Just add your own protein and veggies.Make home cooking a joy, not a chore, with our curated collection of recipes and ingredients  from around the world that's tailored to your health and taste.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Coming Soon",
+            "button_link": ""
+          }
+        },
+        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
+        "420f9ed5-3514-405d-b3ff-1e3acec19515"
+      ],
+      "custom_css": [
+        "h3 {line-height: 55px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/global_capsule_kitchen_7f1882a9-c073-4681-be80-5649b6b4c66f.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 88,
+        "padding_bottom": 88
+      }
+    },
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
       "type": "multicolumn",
       "blocks": {
@@ -134,24 +193,24 @@
         "accessibility_info": ""
       }
     },
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
+    "b2acb399-4413-4007-a959-cd856d399b9a": {
       "type": "image-with-text",
       "blocks": {
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
+        "3d593d08-6261-4ad2-889d-d661eaccfee0": {
           "type": "heading",
           "settings": {
             "heading": "<strong>Delicious and Nutritious Meals for Every Day<\/strong>",
             "heading_size": "h2"
           }
         },
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1": {
+        "d40c24c1-6902-4416-a819-54b8908dee72": {
           "type": "text",
           "settings": {
             "text": "<p>We know that the hardest part of cooking healthy meals is often finding the right ingredients. That's why we've created a solution that makes it easy to get everything you need to cook delicious, heart-healthy meals at home.<\/p><p>Our solution includes a variety of healthy ingredients, as well as recipes and meal plans to help you get started. So whether you're a beginner or a seasoned cook, cooking for yourself, or a loved one, we have something for you.<\/p><p>Join us so you can finally enjoy the delicious and nutritious meals you deserve.<\/p>",
             "text_style": "body"
           }
         },
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
+        "a1bf7f20-6492-4580-be9b-e8c202dd95bd": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -159,7 +218,7 @@
             "button_link": ""
           }
         },
-        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
+        "848916d9-7be7-47c4-92b2-86813d7a8731": {
           "type": "caption",
           "disabled": true,
           "settings": {
@@ -170,13 +229,10 @@
         }
       },
       "block_order": [
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
-        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
-        "420f9ed5-3514-405d-b3ff-1e3acec19515"
-      ],
-      "custom_css": [
-        "h3 {line-height: 55px;}"
+        "3d593d08-6261-4ad2-889d-d661eaccfee0",
+        "d40c24c1-6902-4416-a819-54b8908dee72",
+        "a1bf7f20-6492-4580-be9b-e8c202dd95bd",
+        "848916d9-7be7-47c4-92b2-86813d7a8731"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/global_capsule_kitchen_7f1882a9-c073-4681-be80-5649b6b4c66f.png",
@@ -526,9 +582,10 @@
   },
   "order": [
     "slideshow",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
+    "b2acb399-4413-4007-a959-cd856d399b9a",
     "f96a9b72-a8a3-4c72-ba44-36a33c25039b",
     "69f40509-5aff-4a6a-b297-dc68b6916667",
     "32c3173a-ec15-463f-8c19-4788c9f028f2",
