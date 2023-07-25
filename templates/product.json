@@ -83,6 +83,9 @@
         "buy_buttons",
         "share"
       ],
+      "custom_css": [
+        "div {border-width: 2px; border-color: #0c1950; border-radius: 20px;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
