@@ -196,7 +196,8 @@
     "83b6ab39-5589-4692-90ce-3c4c7f7ecb39": {
       "type": "featured-collection",
       "custom_css": [
-        "{text-align:center;}"
+        "{text-align: center;}",
+        " .grid {justify-content: center}"
       ],
       "settings": {
         "title": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
