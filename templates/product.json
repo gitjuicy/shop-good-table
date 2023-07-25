@@ -28,11 +28,6 @@
             "heading_3": "Heart Healthy"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -56,6 +51,11 @@
           "settings": {
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -75,11 +75,11 @@
         "vendor",
         "title",
         "196db533-6305-4889-ad19-5c8e3be29fe2",
-        "price",
         "description",
         "rating",
         "variant_picker",
         "quantity_selector",
+        "price",
         "buy_buttons",
         "share"
       ],
@@ -88,7 +88,7 @@
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "thumbnail",
         "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
