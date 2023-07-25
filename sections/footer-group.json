@@ -18,23 +18,23 @@
             "text": "<p>Keep me updated about Shop Good  Table news, reminders, and offers by email.<\/p>"
           }
         },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>By subscribing you are accepting our <a href='https:\/\/www.generalmills.com\/privacy-security\/us-english-privacy-policy' target='_blank'>Privacy Policy<\/a> and agreeing that your information may be used across our <a href='https:\/\/www.generalmills.com\/food-we-make\/brands' target='_blank'>family of brands<\/a>.<\/p>"
-          }
-        },
         "email-form": {
           "type": "email_form",
           "settings": {
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>By subscribing you are accepting our <a href=\"https:\/\/www.generalmills.com\/privacy-security\/us-english-privacy-policy\" target=\"_blank\">Privacy Policy<\/a> and agreeing that your information may be used across our <a href=\"https:\/\/www.generalmills.com\/food-we-make\/brands\" target=\"_blank\">family of brands<\/a>.<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
         "paragraph_1",
-        "paragraph",
-        "email-form"
+        "email-form",
+        "paragraph"
       ],
       "settings": {
         "color_scheme": "accent-1",
