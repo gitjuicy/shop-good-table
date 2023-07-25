@@ -20,9 +20,9 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "bottle",
+            "icon_1": "pepper",
             "heading_1": "Shelf Stable",
-            "icon_2": "star",
+            "icon_2": "serving_dish",
             "heading_2": "Chef Curated",
             "icon_3": "heart",
             "heading_3": "Heart Healthy"
