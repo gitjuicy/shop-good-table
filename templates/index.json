@@ -420,6 +420,7 @@
     },
     "0d887d20-f314-4326-a8e4-aa6b69262b7a": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-heading-1": {
           "type": "heading",
@@ -505,8 +506,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 76,
-        "padding_bottom": 76
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     }
   },

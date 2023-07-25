@@ -4,11 +4,13 @@
   "sections": {
     "newsletter": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Follow Along<\/strong>"
+            "heading": "<strong>Follow Along<\/strong>",
+            "heading_size": "h1"
           }
         },
         "paragraph_1": {
@@ -38,8 +40,8 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 68
+        "padding_top": 88,
+        "padding_bottom": 88
       }
     },
     "footer": {
