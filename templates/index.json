@@ -465,6 +465,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "f331787f-8e2e-4efe-8e33-35b476f7019b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the Team",
+            "heading_size": "h1"
+          }
+        },
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are a team guided by one purpose: to make heart-healthy living more joyful. We believe it starts with food. Our carefully sourced ingredients and thoughtfully crafted recipes aim to empower you to make every meal a nourishing one for you and your family.<\/p>"
+          }
+        },
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-heading-1",
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-text-1",
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
     }
   },
   "order": [
@@ -477,6 +520,7 @@
     "32c3173a-ec15-463f-8c19-4788c9f028f2",
     "8b328ecb-05c9-4c89-974f-9f0c63391237",
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
-    "0d887d20-f314-4326-a8e4-aa6b69262b7a"
+    "0d887d20-f314-4326-a8e4-aa6b69262b7a",
+    "f331787f-8e2e-4efe-8e33-35b476f7019b"
   ]
 }
