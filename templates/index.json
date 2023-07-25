@@ -197,7 +197,8 @@
       "type": "featured-collection",
       "custom_css": [
         "{text-align: center;}",
-        ".grid {justify-content: center;}"
+        ".grid {justify-content: center;}",
+        ".product-card-wrapper .card,.contains-card--product {--image-padding: 0px;}"
       ],
       "settings": {
         "title": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
