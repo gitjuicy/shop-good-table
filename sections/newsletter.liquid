@@ -118,6 +118,7 @@
   (function() {
     const section = document.getElementById('shopify-section-{{ section.id }}');
     section.querySelector('form').addEventListener('submit', function(e) {
+      console.log('test')
       e.preventDefault();
       e.stopPropagation();
       const email = section.querySelector('input[name="contact[email]"]').value;
