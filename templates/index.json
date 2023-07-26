@@ -26,7 +26,7 @@
         "slide-0"
       ],
       "custom_css": [
-        "h2 {line-height: 55px; text-transform: uppercase;}"
+        "h2 {line-height: 55px;}"
       ],
       "settings": {
         "layout": "full_bleed",
