@@ -380,15 +380,14 @@
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>\"<\/strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna\"",
-            "heading_size": "h1"
+            "heading": "<strong>\"<\/strong>After so many meal kits, nothing compares to this. It's the perfect balance of useful products and simple recipes to try. And it also promotes health and home cooking for the family\"",
+            "heading_size": "h2"
           }
         },
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": ""
+            "text": "<p>- Amber L.\"<\/p>"
           }
         },
         "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1": {
