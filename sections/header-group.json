@@ -27,7 +27,7 @@
       "type": "header",
       "settings": {
         "logo_position": "middle-left",
-        "menu": "gtf-main-menu",
+        "menu": "",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
