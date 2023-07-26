@@ -26,11 +26,11 @@
         "slide-0"
       ],
       "custom_css": [
-        "h2 {line-height: 55px;}"
+        "h2 {line-height: 55px; text-transform: uppercase;}"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "large",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
