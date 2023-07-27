@@ -1167,18 +1167,3 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
-
-/* ========================================================================== */
-/* ADD CUSTOM JS BELOW */
-/* ========================================================================== */
-
-/*
- * OneTrust
- */
-document.querySelectorAll('a[href="#preference-center"]').forEach(function(v) {
-  v.addEventListener('click', function(e) {
-    e.preventDefault();
-    if (typeof(OneTrust) != 'undefined')
-      OneTrust.ToggleInfoDisplay();
-  });
-});
