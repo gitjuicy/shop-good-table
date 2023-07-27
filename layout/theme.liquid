@@ -98,7 +98,7 @@
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'jquery.min.js' | asset_url }}"></script>
-    <script src="{{ 'jquery.magnific-popup.js' | asset_url }}"></script>
+    <script src="{{ 'jquery.magnific-popup.min.js' | asset_url }}"></script>
     <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
     {%- if settings.animations_reveal_on_scroll -%}
       <script src="{{ 'animations.js' | asset_url }}" defer="defer"></script>
@@ -383,11 +383,10 @@
                 <span class="unavailable-list"></span> of course, been removed from your cart.
               </h3>
             </div>
-            <button type="submit" class="c-btn c-btn--full c-btn--arrow
-            c-btn--primary cart__checkout" name="checkout">
+            <button type="submit" class="c-btn c-btn--full c-btn--arrow c-btn--primary cart__checkout" name="checkout">
               CONTINUE TO CHECKOUT
             </button>
-            <a class="browse-more-products" href="/collections/all">
+            <a class="browse-more-products" href="/">
               Browse More Products
             </a>
           </div>
