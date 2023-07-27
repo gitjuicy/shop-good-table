@@ -56,7 +56,7 @@ $(function() {
     ga('send', 'event', 'Special Checkout Events', 'Browse More Products pressed', ga_unique_id);
   });
 
-  $('.cart-form').on('submit', function(e) {
+  $('form#cart').on('submit', function(e) {
     if ($('.not-available').length > 0) {
       e.preventDefault();
 
