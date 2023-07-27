@@ -226,124 +226,37 @@
         "accessibility_info": ""
       }
     },
-    "04d17b4c-fc49-4435-8ae6-1167ce6ba39d": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>START YOUR CAPSULE NOW<\/p>"
-          }
-        },
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Chinese Capsule",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "Mediterranean Capsule",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "f57a1387-7d0e-4dc8-87fa-6bb3542ab14f": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-heading-1",
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-text-1",
-        "template--20021976596763__04d17b4c-fc49-4435-8ae6-1167ce6ba39d-button-1",
-        "f57a1387-7d0e-4dc8-87fa-6bb3542ab14f"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 68
-      }
-    },
-    "32c3173a-ec15-463f-8c19-4788c9f028f2": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "START YOUR CAPSULE NOW",
-            "text_style": "body"
-          }
-        },
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Chinese Capsule",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Mediterean Capsule",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-heading-1",
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-text-1",
-        "template--19936956678427__32c3173a-ec15-463f-8c19-4788c9f028f2-buttons-1"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "8b328ecb-05c9-4c89-974f-9f0c63391237": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "LOW FAT",
+            "text": "<p>≤3g of fat per 100g serving<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "LOW CHOLESTEROL",
+            "text": "<p>≤20mg of cholesterol per 100g serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3561442d-bc3b-4b67-8de5-df8cc1bdddb2": {
+          "type": "column",
+          "settings": {
+            "title": "LOW SAT FAT",
+            "text": "<p>≤1g of sat fat per 100g serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f09405e5-b189-4969-a75f-1798c63bce48": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -355,16 +268,21 @@
       },
       "block_order": [
         "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-1",
-        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2"
+        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2",
+        "3561442d-bc3b-4b67-8de5-df8cc1bdddb2",
+        "f09405e5-b189-4969-a75f-1798c63bce48"
+      ],
+      "custom_css": [
+        "{text-align: center;}"
       ],
       "settings": {
-        "title": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
+        "title": "All recipes are dietitian approved and developed with these guidelines in mind: ",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
@@ -516,8 +434,6 @@
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
     "83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
-    "04d17b4c-fc49-4435-8ae6-1167ce6ba39d",
-    "32c3173a-ec15-463f-8c19-4788c9f028f2",
     "8b328ecb-05c9-4c89-974f-9f0c63391237",
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
     "f331787f-8e2e-4efe-8e33-35b476f7019b",
