@@ -102,10 +102,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% endif %}
 
     {% render 'meta-tags' %}
-
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'jquery.min.js' | asset_url }}"></script>
+    <script src="{{ 'jquery.magnific-popup.min.js' | asset_url }}"></script>
+    <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
     {%- if settings.animations_reveal_on_scroll -%}
       <script src="{{ 'animations.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
@@ -310,9 +312,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           font-size: 1.6rem;
         }
       }
+
+      /* Style for Custom Checkout Funcionality */
+      .js-cart-item-unavailable .ajaxcart__head {
+        height: auto;
+      }
+      .js-cart-item-unavailable .ajaxcart__label-title {
+        margin-top: 20px;
+      }
+      .js-cart-item-unavailable .cart__checkout {
+        width: auto;
+        min-width: 200px;
+        display: inline-block;
+        margin-top: 20px;
+      }
+      .ajaxcart__body {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        padding: 20px;
+      }
+      .browse-more-products {
+        margin-top: 20px;
+      }
+      .mfp-bg:empty {
+        display: block;
+      }
+      .mfp-content {
+        max-width: 900px;
+        background: white;
+      }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -352,6 +386,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
+
+    <div class="ajaxcart-draw js-cart-item-unavailable mfp-hide">
+      <div class="ajaxcart-draw__wrapper js-cart-draw-inner">
+        <div class="ajaxcart-draw__scroll">
+          <div class="ajaxcart__head">
+          </div>
+          <div class="ajaxcart__body">
+            <div class="ajaxcart__label">
+              <h3 class="ajaxcart__label-title">
+                <span class="unavailable-list"></span> of course, been removed from your cart.
+              </h3>
+            </div>
+            <button type="submit" class="c-btn c-btn--full c-btn--arrow c-btn--primary cart__checkout" name="checkout">
+              CONTINUE TO CHECKOUT
+            </button>
+            <a class="browse-more-products" href="/">
+              Browse More Products
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
     {% sections 'footer-group' %}
 
