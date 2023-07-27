@@ -232,7 +232,7 @@
         "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-1": {
           "type": "column",
           "settings": {
-            "title": "LOW FAT",
+            "title": "Low Fat",
             "text": "<p>≤3g of fat per 100g serving<\/p>",
             "link_label": "",
             "link": ""
@@ -241,7 +241,7 @@
         "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2": {
           "type": "column",
           "settings": {
-            "title": "LOW CHOLESTEROL",
+            "title": "Low Cholesterol",
             "text": "<p>≤20mg of cholesterol per 100g serving<\/p>",
             "link_label": "",
             "link": ""
@@ -250,7 +250,7 @@
         "3561442d-bc3b-4b67-8de5-df8cc1bdddb2": {
           "type": "column",
           "settings": {
-            "title": "LOW SAT FAT",
+            "title": "Low Sat Fat",
             "text": "<p>≤1g of sat fat per 100g serving<\/p>",
             "link_label": "",
             "link": ""
@@ -259,7 +259,7 @@
         "f09405e5-b189-4969-a75f-1798c63bce48": {
           "type": "column",
           "settings": {
-            "title": "LOW SODIUM",
+            "title": "Low Sodium",
             "text": "<p>≤960mg of sodium per 100g serving<\/p>",
             "link_label": "",
             "link": ""
@@ -278,7 +278,7 @@
       "settings": {
         "title": "All recipes are dietitian approved and developed with these guidelines in mind: ",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
