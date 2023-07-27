@@ -57,7 +57,7 @@ $(function() {
 
   $('.js-cart-item-unavailable .cart__checkout').click(function() {
     ga('send', 'event', 'Special Checkout Events', 'Continue to Checkout pressed', ga_unique_id);
-    $('.cart-form .cart__checkout').click();
+    $('form#cart #checkout').click();
   });
 
   $('.browse-more-products').click(function() {
