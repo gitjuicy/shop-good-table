@@ -25,7 +25,11 @@ document.querySelectorAll('a[href="#preference-center"]').forEach(function(v) {
  * Custom Checkout Functionality and Analytics
  */
 
-$('not-available').addClass('test-jquery');
+const ShopifyAPI = {
+  getCart: function(callback) {
+    fetch('/cart.json').then((r) => r.json()).then(callback);
+  }
+};
 
 let notAvailableItemsProductIDs = [];
 let notAvailableItemsProductNames = [];
@@ -69,6 +73,7 @@ $(function() {
       });
 
       ShopifyAPI.getCart(function(c) {
+        console.log(c)
         for (i = 0; i < c.items.length; i++) {
           let id = c.items[i].id.toString();
           if (notAvailableItemsProductIDs.includes(id)) {
