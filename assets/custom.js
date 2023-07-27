@@ -25,6 +25,7 @@ document.querySelectorAll('a[href="#preference-center"]').forEach(function(v) {
  * Custom Checkout Functionality and Analytics
  */
 
+// remove me when GA is added
 if (typeof(ga) === "undefined")
   function ga() {};
 
