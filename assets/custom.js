@@ -25,6 +25,9 @@ document.querySelectorAll('a[href="#preference-center"]').forEach(function(v) {
  * Custom Checkout Functionality and Analytics
  */
 
+if (typeof(ga) === "undefined")
+  function ga() {};
+
 const ShopifyAPI = {
   getCart: function(callback) {
     fetch('/cart.json').then((r) => r.json()).then(callback);
