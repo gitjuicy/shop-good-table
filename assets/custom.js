@@ -73,7 +73,6 @@ $(function() {
       });
 
       ShopifyAPI.getCart(function(c) {
-        console.log(c)
         for (i = 0; i < c.items.length; i++) {
           let id = c.items[i].id.toString();
           if (notAvailableItemsProductIDs.includes(id)) {
