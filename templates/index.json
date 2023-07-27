@@ -225,7 +225,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/check_icon_a41cc39a-eced-4cf6-92ce-ca6263628319.png",
             "title": "Low Sodium",
-            "text": "<p>≤960mg of sodium per 100g serving<\/p>",
+            "text": "<p>&lt;960mg per meal serving<\/p>",
             "link_label": "",
             "link": ""
           }
