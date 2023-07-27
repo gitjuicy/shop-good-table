@@ -57,6 +57,13 @@
           "settings": {
           }
         },
+        "877b7efc-c4ee-4a6d-a159-51a058d1de21": {
+          "type": "text",
+          "settings": {
+            "text": "Orders are expected to ship between the 8th and 25th of August",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -81,6 +88,7 @@
         "variant_picker",
         "price",
         "quantity_selector",
+        "877b7efc-c4ee-4a6d-a159-51a058d1de21",
         "buy_buttons",
         "share"
       ],
