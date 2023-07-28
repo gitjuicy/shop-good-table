@@ -94,9 +94,9 @@ $(function() {
         unavailableListText += " in your cart!";
 
         if (notAvailableItemsProductNames.length > 1) {
-          unavailableListText += ' These products are the ones we told you have not yet been created, but we have noted your interest. They have,'
+          unavailableListText += ` These products have not been created yet, but we have noted your interest. We've removed them `
         } else {
-          unavailableListText += ' This product is the one we told you has not yet been created, but we have noted your interest. It has,'
+          unavailableListText += ` This product has not been created yet, but we have noted your interest. We've removed it `
         }
 
         $('.unavailable-list').text(unavailableListText);
