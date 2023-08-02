@@ -241,7 +241,7 @@
         "{text-align: center;}"
       ],
       "settings": {
-        "title": "All recipes are dietitian approved and developed with these guidelines in mind: ",
+        "title": "All recipes are <em><strong>Dietitian Approved<\/strong><\/em> and developed with these guidelines in mind: ",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
