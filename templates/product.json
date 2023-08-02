@@ -64,6 +64,13 @@
             "text_style": "body"
           }
         },
+        "40ec2abc-e5cd-4bc1-bfa4-0553675447b7": {
+          "type": "text",
+          "settings": {
+            "text": "Try Risk Free *if you're not happy with purchase, we will issue a full refund, no questions!",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +96,7 @@
         "price",
         "quantity_selector",
         "877b7efc-c4ee-4a6d-a159-51a058d1de21",
+        "40ec2abc-e5cd-4bc1-bfa4-0553675447b7",
         "buy_buttons",
         "share"
       ],
