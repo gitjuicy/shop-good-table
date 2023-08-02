@@ -34,6 +34,13 @@
           "settings": {
           }
         },
+        "51e920a2-341a-4fe0-9674-bb7d91660d4e": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Just Add: <\/strong>                                       4lb protein, 2 cups fresh vegetables, chicken broth",
+            "text_style": "body"
+          }
+        },
         "rating": {
           "type": "rating",
           "disabled": true,
@@ -84,6 +91,7 @@
         "title",
         "196db533-6305-4889-ad19-5c8e3be29fe2",
         "description",
+        "51e920a2-341a-4fe0-9674-bb7d91660d4e",
         "rating",
         "variant_picker",
         "price",
