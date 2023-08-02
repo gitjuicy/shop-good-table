@@ -6,10 +6,10 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Header_Image_267ac277-db3d-4c56-8a15-bc206065d37f.png",
+            "image": "shopify:\/\/shop_images\/Header_Image_082272ff-6429-4254-b8aa-d3aec55f1812.png",
             "heading": "The easy way to cook heart-healthy at home. ",
             "heading_size": "h1",
-            "subheading": "We curated hard-to-find ingredients and authentic recipes— all in one easy cooking kit delivered to your door",
+            "subheading": "We curated hard-to-find ingredients and authentic, <strong>Dietician Approved <\/strong>recipes— all in one easy cooking kit delivered to your door. And all products are full-sized!",
             "button_label": "Buy Now",
             "link": "#shopify-section-template--20021976596763__83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
             "button_style_secondary": false,
@@ -84,7 +84,7 @@
         "h3 {line-height: 55px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GCK.png",
+        "image": "shopify:\/\/shop_images\/GCK_42071dbd-e4d9-4fa4-b4b5-14bd4624746a.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -105,7 +105,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
-            "title": "Ingredients & Dietitian Approved Recipes In A Box",
+            "title": "Ingredients & <strong>Dietitian Approved <\/strong>Recipes In A Box",
             "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
             "link_label": "",
             "link": ""
@@ -125,8 +125,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
-            "title": "Many, Many Winning Meals",
-            "text": "<p>Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
+            "title": "10 Heart-Healthy Meals, Guranteed",
+            "text": "<p>Plenty of ingredients. Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -264,7 +264,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/shutterstock_1407193322.jpg",
-            "heading": "Delicious & Nutritious!",
+            "heading": "Dietician Approved Recipes",
             "heading_size": "h1",
             "subheading": "We know that the hardest part of cooking healthy meals is often finding the right ingredients.  That's why we've created a solution that makes it easy to get everything you need to cook delicious, heart-healthy meals at home. Our solution includes a variety of high quality ingredients, as well as recipes and meal plans to help you get started. So whether you're a beginner or a seasoned cook, cooking for yourself, or a loved one, we have something for you. Join us so you can finally enjoy the delicious and nutritious meals you deserve.",
             "button_label": "",
