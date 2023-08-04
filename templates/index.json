@@ -9,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/Header_Image_a37be3d4-8856-4731-9695-d200beadeaec.png",
             "heading": "The easiest way to cook heart-healthy at home. ",
             "heading_size": "h1",
-            "subheading": "Elevate your cooking with hard-to-find ingredients and new flavors. Create up to 10 delicious, <strong>Dietician Approved <\/strong>dinners— All products are full-sized, and recipes are made in less than 30 mins.",
+            "subheading": "Elevate your cooking with hard-to-find ingredients and new flavors. Create up to 10 delicious, <strong>Dietician Approved <\/strong>dinners. All products are full-sized, and recipes are made in less than 30 mins. — Save 50% off your first order!",
             "button_label": "Buy Now",
             "link": "#shopify-section-template--20021976596763__83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
             "button_style_secondary": false,
@@ -162,9 +162,9 @@
         ".product-card-wrapper .card,.contains-card--product {--image-padding: 0px;}"
       ],
       "settings": {
-        "title": "<strong>One box. Many, many healthy meals. <\/strong>",
+        "title": "<strong>Save 50% off your first order<\/strong>",
         "heading_size": "h1",
-        "description": "<p>It's not magic, but this will change your life.<\/p>",
+        "description": "<p>One box. Many, many meals. <\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "our-capsules",
