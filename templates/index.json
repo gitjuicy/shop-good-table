@@ -162,9 +162,9 @@
         ".product-card-wrapper .card,.contains-card--product {--image-padding: 0px;}"
       ],
       "settings": {
-        "title": "<strong>With Global Capsule Kitchen, you can<\/strong><em><strong> always<\/strong><\/em><strong> pull off a winning meal with ease.<\/strong>",
+        "title": "<strong>One box. Many, many healthy meals. <\/strong>",
         "heading_size": "h1",
-        "description": "<p>START YOUR CAPSULE NOW<\/p>",
+        "description": "<p>It's not magic, but this will change your life.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "our-capsules",
