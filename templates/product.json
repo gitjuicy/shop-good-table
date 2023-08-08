@@ -57,13 +57,6 @@
           "settings": {
           }
         },
-        "877b7efc-c4ee-4a6d-a159-51a058d1de21": {
-          "type": "text",
-          "settings": {
-            "text": "Orders are expected to ship by August 10th",
-            "text_style": "body"
-          }
-        },
         "40ec2abc-e5cd-4bc1-bfa4-0553675447b7": {
           "type": "text",
           "settings": {
@@ -95,7 +88,6 @@
         "variant_picker",
         "price",
         "quantity_selector",
-        "877b7efc-c4ee-4a6d-a159-51a058d1de21",
         "40ec2abc-e5cd-4bc1-bfa4-0553675447b7",
         "buy_buttons",
         "share"
