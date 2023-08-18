@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Header_Image_52b88c3f-0e4e-404c-9752-10d70b5fecd6.png",
-            "heading": "The easiest way to cook heart-healthy at home. ",
+            "heading": "Stressful days don't have to end with disappointing dinners",
             "heading_size": "h1",
-            "subheading": "Finally, heart-healthy recipes and ingredients in one convenient cooking kit. Create up to 10 delicious, <strong>Dietician Approved <\/strong>dinners. All products are full-sized, and recipes are made in less than 30 mins. — Save 50% off your first order!",
+            "subheading": "A simple kit that takes the guesswork out of \"what's for dinner\" to help on those nights where things aren't going to plan.",
             "button_label": "Buy Now",
             "link": "#shopify-section-template--20021976596763__83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
             "button_style_secondary": false,
@@ -384,7 +384,6 @@
     },
     "0d887d20-f314-4326-a8e4-aa6b69262b7a": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-heading-1": {
           "type": "heading",
@@ -418,6 +417,7 @@
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-text-1",
         "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
