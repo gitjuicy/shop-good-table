@@ -508,49 +508,6 @@
         "show_text_below": true
       }
     },
-    "c5965883-b1f7-4573-ae20-c3da3eb8e768": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-1",
-        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-2"
-      ],
-      "settings": {
-        "title": "How We Stack Up",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "020b91c8-6eb3-4e50-8b1a-6231e3e210e4": {
       "type": "image-banner",
       "blocks": {
@@ -598,6 +555,51 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "633240e5-dc1f-4bc1-b884-4f1b2e423ab0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-1-01_9a2c7b66-6176-4441-b4bd-11a1a56de723.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-1-02_0d53fd59-61d1-4f3e-9ff7-98a2152144b1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-1",
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-2"
+      ],
+      "settings": {
+        "title": "How We Stack Up",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -611,7 +613,7 @@
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
     "f331787f-8e2e-4efe-8e33-35b476f7019b",
     "0d887d20-f314-4326-a8e4-aa6b69262b7a",
-    "c5965883-b1f7-4573-ae20-c3da3eb8e768",
-    "020b91c8-6eb3-4e50-8b1a-6231e3e210e4"
+    "020b91c8-6eb3-4e50-8b1a-6231e3e210e4",
+    "633240e5-dc1f-4bc1-b884-4f1b2e423ab0"
   ]
 }
