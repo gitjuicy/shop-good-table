@@ -401,8 +401,9 @@
         "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/food_idea.png",
             "title": "Moo Goo Gai Pan",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Prep Time: 20 Minutes<br\/>Cook time: 15 Minutes<br\/>Serves: 4<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -410,8 +411,9 @@
         "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/food_idea.png",
             "title": "Chicken Quinoa Taco Bowls",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Prep Time: 20 Minutes<br\/>Cook time: 15 Minutes<br\/>Serves: 4<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -419,8 +421,9 @@
         "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/food_idea.png",
             "title": "Moroccan-Inspired Chicken Couscous",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Prep Time: 20 Minutes<br\/>Cook time: 15 Minutes<br\/>Serves: 4<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -428,8 +431,9 @@
         "fb523f56-39af-43e1-8876-5c6e559662ef": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/food_idea.png",
             "title": "Sesame Salmon Rice Bowls",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Prep Time: 20 Minutes<br\/>Cook time: 15 Minutes<br\/>Serves: 4<\/p>",
             "link_label": "",
             "link": ""
           }
