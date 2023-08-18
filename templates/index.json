@@ -39,6 +39,62 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
+            "title": "CHOOSE",
+            "text": "<p>Each kit includes curated, <strong>full-sized ingredients<\/strong> and <strong>multiple recipes.<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
+            "title": "Add Protein & Veggies",
+            "text": "<p>Cook on your terms. Add your own protein and veggies while enjoying the convenience of our shelf-stable ingredients.<\/p><p><\/p><p>No more rushing or waste. You decide when to cook.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
+            "title": "10 Heart-Healthy Meals, Guranteed",
+            "text": "<p>Plenty of ingredients. Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 76
+      }
+    },
     "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
       "type": "image-with-text",
       "blocks": {
@@ -96,62 +152,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 88,
         "padding_bottom": 88
-      }
-    },
-    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
-            "title": "Ingredients & <strong>Dietitian Approved <\/strong>Recipes In A Box",
-            "text": "<p>Our capsule includes an assortment of flavorful sauces, spices, oils, and recipes.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
-            "title": "Add Protein & Veggies",
-            "text": "<p>Cook on your terms. Add your own protein and veggies while enjoying the convenience of our shelf-stable ingredients.<\/p><p><\/p><p>No more rushing or waste. You decide when to cook.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icons-13_77275b2d-3a13-4b90-83fa-c734042c5027.png",
-            "title": "10 Heart-Healthy Meals, Guranteed",
-            "text": "<p>Plenty of ingredients. Mix and match your veggies and protein with our capsule ingredients delivered to your door.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
-        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
-      ],
-      "settings": {
-        "title": "How it works",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 76
       }
     },
     "83b6ab39-5589-4692-90ce-3c4c7f7ecb39": {
@@ -434,8 +434,8 @@
   },
   "order": [
     "slideshow",
-    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
     "83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
     "8b328ecb-05c9-4c89-974f-9f0c63391237",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
