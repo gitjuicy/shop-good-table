@@ -359,14 +359,14 @@
         "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Ready To Order?",
             "heading_size": "h1"
           }
         },
         "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": ""
           }
         },
         "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-button-1": {
@@ -389,7 +389,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
