@@ -350,6 +350,69 @@
         "padding_bottom": 36
       }
     },
+    "3b775f41-fa3e-4cbf-aa29-064bc17b459d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Moo Goo Gai Pan",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Chicken Quinoa Taco Bowls",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Moroccan-Inspired Chicken Couscous",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fb523f56-39af-43e1-8876-5c6e559662ef": {
+          "type": "column",
+          "settings": {
+            "title": "Sesame Salmon Rice Bowls",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1",
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2",
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3",
+        "fb523f56-39af-43e1-8876-5c6e559662ef"
+      ],
+      "settings": {
+        "title": "Delicious & Flexible Recipes",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749": {
       "type": "rich-text",
       "blocks": {
@@ -485,40 +548,22 @@
         "show_text_below": true
       }
     },
-    "3b775f41-fa3e-4cbf-aa29-064bc17b459d": {
+    "c5965883-b1f7-4573-ae20-c3da3eb8e768": {
       "type": "multicolumn",
       "blocks": {
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1": {
+        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-1": {
           "type": "column",
           "settings": {
-            "title": "Moo Goo Gai Pan",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2": {
+        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-2": {
           "type": "column",
           "settings": {
-            "title": "Chicken Quinoa Taco Bowls",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Moroccan-Inspired Chicken Couscous",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "fb523f56-39af-43e1-8876-5c6e559662ef": {
-          "type": "column",
-          "settings": {
-            "title": "Sesame Salmon Rice Bowls",
+            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -526,23 +571,21 @@
         }
       },
       "block_order": [
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1",
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2",
-        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3",
-        "fb523f56-39af-43e1-8876-5c6e559662ef"
+        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-1",
+        "template--20021976596763__c5965883-b1f7-4573-ae20-c3da3eb8e768-column-2"
       ],
       "settings": {
-        "title": "Delicious & Flexible Recipes",
+        "title": "How We Stack Up",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
+        "button_label": "Button label",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -557,9 +600,10 @@
     "8b328ecb-05c9-4c89-974f-9f0c63391237",
     "ffb7efe3-349e-45d4-8b7e-4aaf066d041d",
     "b58985ae-38f4-4d0f-9ef8-cd5a630fbca4",
+    "3b775f41-fa3e-4cbf-aa29-064bc17b459d",
     "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
     "f331787f-8e2e-4efe-8e33-35b476f7019b",
     "0d887d20-f314-4326-a8e4-aa6b69262b7a",
-    "3b775f41-fa3e-4cbf-aa29-064bc17b459d"
+    "c5965883-b1f7-4573-ae20-c3da3eb8e768"
   ]
 }
