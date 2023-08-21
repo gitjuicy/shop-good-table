@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
             "title": "CHOOSE",
-            "text": "<p>Each kit includes curated, <strong>full-sized ingredients<\/strong> and <strong>multiple recipes.<\/strong><\/p>",
+            "text": "<p>Each kit includes curated, <strong>full-sized ingredients and multiple recipes.<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -469,7 +469,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>The flavor and taste were so good. My whole family really liked this meal which says alot with 6 & 8 year old daughters. There wasn't anything I would change about this. I've already been asked to make it again. <br\/><br\/>- Christina<\/p>",
+            "text": "<p>\"The flavor and taste were so good. My whole family really liked this meal which says alot with 6 & 8 year old daughters. There wasn't anything I would change about this. I've already been asked to make it again.\"<br\/><br\/>- Christina<\/p>",
             "link_label": "",
             "link": ""
           }
