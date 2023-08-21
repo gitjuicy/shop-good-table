@@ -13,7 +13,7 @@
             "button_label": "Buy Now",
             "link": "shopify:\/\/products\/chinese-capsule",
             "button_style_secondary": false,
-            "box_align": "middle-right",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
