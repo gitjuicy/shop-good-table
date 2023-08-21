@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
             "title": "CHOOSE",
-            "text": "<p>Each kit includes curated, <strong>full-sized ingredients and multiple recipes.<\/strong><\/p>",
+            "text": "<p>Each kit includes curated, <em><strong>full-sized ingredients and multiple recipes.<\/strong><\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -101,7 +101,7 @@
         "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-1-01_9a2c7b66-6176-4441-b4bd-11a1a56de723.png",
+            "image": "shopify:\/\/shop_images\/Comparison_Table-01.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -111,7 +111,7 @@
         "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-1-02_0d53fd59-61d1-4f3e-9ff7-98a2152144b1.png",
+            "image": "shopify:\/\/shop_images\/Comparison_Table-02.png",
             "title": "",
             "text": "",
             "link_label": "",
