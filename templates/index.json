@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
             "title": "CHOOSE",
-            "text": "<p>Each kit includes curated, <em>full-sized ingredients and multiple recipes.<\/em><\/p>",
+            "text": "<h5>Each kit includes curated, <span style=\"text-decoration:underline\">full-sized ingredients and multiple recipes.<\/span><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -57,7 +57,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
             "title": "COOK",
-            "text": "<p>Each recipe is ready in 30 minutes or less. Add your own fresh protein and vegetables.<\/p>",
+            "text": "<h5>Each recipe is ready in <span style=\"text-decoration:underline\">30 minutes or less<\/span>. Add your own fresh protein and vegetables.<\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -67,7 +67,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/website_deisgn_f17aaa58-8658-42c0-8290-d994d7d3fc8e.png",
             "title": "REPEAT",
-            "text": "<p>Reuse your kit over and over. Transform these ingredients into many winning meals with our simple recipes.<\/p>",
+            "text": "<h5>Reuse your kit over and over. Transform these ingredients into <span style=\"text-decoration:underline\">many winning meals <\/span>with our simple recipes.<\/h5>",
             "link_label": "",
             "link": ""
           }
