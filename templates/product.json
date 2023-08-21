@@ -47,13 +47,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -69,6 +62,12 @@
           "settings": {
             "text": "Try Risk Free *if you're not happy with purchase, we will issue a full refund, no questions!",
             "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "buy_buttons": {
@@ -93,10 +92,10 @@
         "196db533-6305-4889-ad19-5c8e3be29fe2",
         "description",
         "rating",
-        "variant_picker",
         "price",
         "quantity_selector",
         "40ec2abc-e5cd-4bc1-bfa4-0553675447b7",
+        "variant_picker",
         "buy_buttons",
         "share"
       ],
