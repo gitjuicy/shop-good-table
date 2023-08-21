@@ -11,6 +11,13 @@
             "text_style": "body"
           }
         },
+        "dd515698-f65f-41f9-9d27-7b304a4d5054": {
+          "type": "text",
+          "settings": {
+            "text": "This Month's Pantry:",
+            "text_style": "subtitle"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -22,11 +29,11 @@
             "layout": "horizontal",
             "icon_1": "pepper",
             "image_1": "shopify:\/\/shop_images\/shelf_stable_icon_56312a96-2fa0-423b-9b98-c3edaecd2f6e.png",
-            "heading_1": "10 Recipes & 9 Full Size Ingredients",
+            "heading_1": "Full size, multi-use ingredients",
             "icon_2": "serving_dish",
             "heading_2": "Cooks in 30 Mins or Less",
             "icon_3": "heart",
-            "heading_3": "Heart Healthy"
+            "heading_3": "Heart-Healthy Recipes"
           }
         },
         "description": {
@@ -81,6 +88,7 @@
       },
       "block_order": [
         "vendor",
+        "dd515698-f65f-41f9-9d27-7b304a4d5054",
         "title",
         "196db533-6305-4889-ad19-5c8e3be29fe2",
         "description",
