@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
             "title": "CHOOSE",
-            "text": "<p>Each kit includes curated, <em>full-sized ingredients and multiple recipes.<\/em><\/p>",
+            "text": "<p>Each kit includes curated, &lt;spanstyle=\"text-decoration: underline;\"&gt; <em>full-sized ingredients and multiple recipes.<\/em>&lt;\/span&gt;<\/p>",
             "link_label": "",
             "link": ""
           }
