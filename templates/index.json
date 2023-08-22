@@ -406,7 +406,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/food_idea.png",
             "title": "Moo Goo Gai Pan",
-            "text": "<p>Prep Time: 20 Minutes<br\/>Cook time: 15 Minutes<br\/>Serves: 4<\/p>",
+            "text": "<p>Serves: 4<\/p>",
             "link_label": "",
             "link": ""
           }
