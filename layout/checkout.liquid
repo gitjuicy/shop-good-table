@@ -15,20 +15,20 @@
   </head>
 
   <!-- Google Tag Manager --> 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KBVR58XX');</script>
-<!-- End Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KBVR58XX');</script>
+  <!-- End Google Tag Manager -->
   
   <body>
     {{ skip_to_content_link }}
 
-<!-- Google Tag Manager (noscript) --> 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBVR58XX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) --> 
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBVR58XX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <header class="banner" data-header role="banner">
       <div class="wrap">
@@ -92,6 +92,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           document.querySelector('form.edit_checkout').removeAttribute('novalidate');
         }
       }, 250);
+    </script>
+    <script>
+      let ga_unique_id = getCookie('ga_unique_id');
+      let checkout_items = [
+        {% for line_item in checkout.line_items %}
+          "{{ line_item.title }}",
+        {% endfor %}
+      ]
+      let checkout_item_quantities = [
+        {% for line_item in checkout.line_items %}
+          "{{ line_item.quantity }}",
+        {% endfor %}
+      ]
+
+      function decodeHTML(html) {
+        var txt = document.createElement('textarea');
+        txt.innerHTML = html;
+        return txt.value;
+      }
+
+      checkout_items = checkout_items.map(element => decodeHTML(element));
+      let purchasedGAAction = '';
+      for (i = 0; i < checkout_items.length; i++) {
+        purchasedGAAction += checkout_item_quantities[i] + 'x' + checkout_items[i];
+        if (checkout_items.length > 1 && i < checkout_items.length - 1) {
+          purchasedGAAction += ', ';
+        }
+      }
+
+      function eventConversion() {
+        if(Shopify.Checkout.step === "thank_you"){
+          dataLayer.push({
+            'event': 'purchase_completed',
+            'purchased_items': purchasedGAAction,
+            ga_unique_id,
+          });
+          eraseCookie('ga_unique_id');
+        } else {
+          console.log("script loading")
+          setTimeout(eventConversion, 500);
+        }
+      };
+      eventConversion();
+
+      function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+      }
+      function eraseCookie(name) {
+        document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+      }
     </script>
   </body>
 </html>
