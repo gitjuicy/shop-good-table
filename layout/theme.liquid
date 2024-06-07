@@ -5,6 +5,85 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
+
+    <!-- OneTrust Cookies Consent Notice start for shopgoodtable.com -->
+    <script
+      src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      data-document-language="true"
+      type="text/javascript"
+      charset="UTF-8"
+      data-domain-script="5b70ea1c-b570-4a9b-a296-5798ec1f8fef-test"></script>
+    <script type="text/javascript" defer="defer">
+      const analyticsConsent = 'C0002,';
+      const functionalConsent = 'C0003,';
+      const targetingConsent = 'C0004,';
+      function waitForOneTrust() {
+        hasOneTrustLoaded();
+        let attempts = 0;
+        const interval = setInterval(function () {
+          if (hasOneTrustLoaded() || attempts > 100){
+            clearInterval(interval);
+          }
+          attempts++;
+        }, 100)
+      }
+      function hasOneTrustLoaded() {
+        if (typeof window.OnetrustActiveGroups === 'string') {
+          //check now
+          optanonWrapper()
+          // and wrap and trigger after cookie opt-in
+          window.OptanonWrapper = optanonWrapper;
+          return true;
+        }
+        return false;
+      }
+      function sendConsent(trackingConsent) {
+        window.Shopify.customerPrivacy.setTrackingConsent(
+          trackingConsent,
+          () => {
+            console.log('Consent captured')
+            console.log(window.Shopify.customerPrivacy.currentVisitorConsent());
+          }
+        );
+      }
+      function optanonWrapper() {
+        const trackingConsent = {
+          'analytics': !!window.OnetrustActiveGroups.includes(analyticsConsent),
+          'preferences': !!window.OnetrustActiveGroups.includes(functionalConsent),
+          'marketing': !!window.OnetrustActiveGroups.includes(targetingConsent),
+          "sale_of_data": false
+        };
+        // to use Shopify Customer Privacy API, it must be loaded using loadFeatures
+        window.Shopify.loadFeatures(
+          [
+            {
+              name: 'consent-tracking-api',
+              version: '0.1',
+            },
+          ],
+          error => {
+            if (error) {
+              throw error;
+            }
+            // if error is false, the API has loaded and ready to use
+            sendConsent(trackingConsent)
+          },
+        );
+      }
+      (function () {
+        waitForOneTrust();
+      })();
+    </script>
+    <!-- OneTrust Cookies Consent Notice end for shopgoodtable.com -->
+
+    <!-- Google Tag Manager --> 
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KBVR58XX');</script>
+    <!-- End Google Tag Manager -->
+
     <link rel="canonical" href="{{ canonical_url }}">
 
     {%- if settings.favicon != blank -%}
@@ -27,10 +106,12 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'jquery.min.js' | asset_url }}"></script>
+    <script src="{{ 'jquery.magnific-popup.min.js' | asset_url }}"></script>
+    <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
     {%- if settings.animations_reveal_on_scroll -%}
       <script src="{{ 'animations.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
@@ -235,9 +316,41 @@
           font-size: 1.6rem;
         }
       }
+
+      /* Style for Custom Checkout Funcionality */
+      .js-cart-item-unavailable .ajaxcart__head {
+        height: auto;
+      }
+      .js-cart-item-unavailable .ajaxcart__label-title {
+        margin-top: 20px;
+      }
+      .js-cart-item-unavailable .cart__checkout {
+        width: auto;
+        min-width: 200px;
+        display: inline-block;
+        margin-top: 20px;
+      }
+      .ajaxcart__body {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        padding: 20px;
+      }
+      .browse-more-products {
+        margin-top: 20px;
+      }
+      .mfp-bg:empty {
+        display: block;
+      }
+      .mfp-content {
+        max-width: 900px;
+        background: white;
+      }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -264,6 +377,12 @@
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
+
+    <!-- Google Tag Manager (noscript) --> 
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBVR58XX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
@@ -277,6 +396,28 @@
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
+
+    <div class="ajaxcart-draw js-cart-item-unavailable mfp-hide">
+      <div class="ajaxcart-draw__wrapper js-cart-draw-inner">
+        <div class="ajaxcart-draw__scroll">
+          <div class="ajaxcart__head">
+          </div>
+          <div class="ajaxcart__body">
+            <div class="ajaxcart__label">
+              <h3 class="ajaxcart__label-title">
+                <span class="unavailable-list"></span> from your cart.
+              </h3>
+            </div>
+            <button type="submit" class="c-btn c-btn--full c-btn--arrow c-btn--primary cart__checkout" name="checkout">
+              CONTINUE TO CHECKOUT
+            </button>
+            <a class="browse-more-products" href="/">
+              Browse More Products
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
     {% sections 'footer-group' %}
 
@@ -318,5 +459,50 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+
+<style>
+a#chinese-capsule {
+    min-width: 200px;
+    text-decoration: none;
+    margin: 7px 10px;
+    max-height: 30px;
+    transition:0.4s;
+    text-align:center;
+    font-weight: 700;
+    border-radius: 7px;
+    background: #fff;
+    color: #1c4461;
+}
+a#chinese-capsule:hover {
+    color: #ffc000;
+    background:#a83b1a;
+}
+</style>
+
+
+<style>
+a#med-capsule {
+    min-width: 250px;
+    text-decoration: none;
+    margin: 7px 10px;
+    max-height: 30px;
+    transition:0.4s;
+    text-align:center;
+    font-weight: 700;
+    border-radius: 7px;
+    background: #fff;
+    color: #1c4461;
+}
+a#med-capsule:hover {
+    color: #b0f2bc;
+    background:#4f7f6b;
+
+}
+</style>
+
+
+
+    
   </body>
 </html>

@@ -1,1 +1,673 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/header_image_b1020739-9895-4862-97e5-f91d6ca6f2c7.png","heading":"<strong>Indulge your wanderlust with our heart healthy recipe kits.<\/strong>","heading_size":"h1","subheading":"Flavorful and nutritious meals from around the globe","button_label":"Join the waitlist","link":"","button_style_secondary":false,"box_align":"middle-left","show_text_box":true,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"left"}}},"block_order":["slide-0"],"custom_css":[".banner__box.gradient {border-width: 10px; border-color: #0075bd; border-radius: 30px;}","h2 {line-height: 55px;}"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"featured-collection-0":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":false,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"portrait","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":60,"padding_bottom":60}},"8b1b40ae-2c62-4749-9db3-081e6ff31e60":{"type":"multicolumn","blocks":{"template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/icons-06.png","title":"Heart Healthy & Delicious","text":"<p>Enjoy a delicious and healthy meal without sacrificing taste.<\/p>","link_label":"","link":""}},"template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/icons-05.png","title":"Chef-Crafted Recipes","text":"<p><strong>Our easy-to-follow recipes are perfect for beginners and experienced cooks alike.<\/strong><\/p>","link_label":"","link":""}},"template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/website_deisgn_0ba70af1-c910-43cf-af63-48d56d268c36.png","title":"Unexpected Flavors","text":"<p><strong>Our unexpected and worldly flavors will transport you to a new culinary destination with every bite.<\/strong><\/p>","link_label":"","link":""}}},"block_order":["template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1","template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2","template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"],"settings":{"title":"","heading_size":"h1","image_width":"half","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"accent-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":72,"padding_bottom":76}},"ffb7efe3-349e-45d4-8b7e-4aaf066d041d":{"type":"slideshow","blocks":{"template--19936956678427__ffb7efe3-349e-45d4-8b7e-4aaf066d041d-slide-1":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"e2c3ce10-8d1b-4c3a-ae11-9ac975cbcf4d":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"de2cffbe-b61c-4301-aa76-6134735c0328":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"template--19936956678427__ffb7efe3-349e-45d4-8b7e-4aaf066d041d-slide-2":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-chinese-medicine-ingredients-of-the-dishes-prepared-with-medicinal-herbs-dish-570874801.jpg","heading":"Chinese Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"1df4e65f-423b-43d6-b2fb-81a7edf80cbb":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/stock-photo-various-herbs-and-spices-on-black-background-top-view-1835816035.jpg","heading":"Mediterranean Cuisine Kit","heading_size":"h1","subheading":"","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-2","text_alignment_mobile":"center"}}},"block_order":["template--19936956678427__ffb7efe3-349e-45d4-8b7e-4aaf066d041d-slide-1","e2c3ce10-8d1b-4c3a-ae11-9ac975cbcf4d","de2cffbe-b61c-4301-aa76-6134735c0328","template--19936956678427__ffb7efe3-349e-45d4-8b7e-4aaf066d041d-slide-2","1df4e65f-423b-43d6-b2fb-81a7edf80cbb"],"custom_css":[".banner__box {border-width: 10px; border-color: #178298; border-radius: 30px;}","h2 {line-height: 55px;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"69f40509-5aff-4a6a-b297-dc68b6916667":{"type":"slideshow","blocks":{"60ba9ebb-1542-4b39-b1b3-cb98501011e7":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"56fae065-186b-40a3-a768-859e8ba43f84":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"9eaa2d67-cc54-4466-9e72-0ba6f7a6eafd":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-greek-food-background-meze-gyros-souvlaki-fish-pita-greek-salad-tzatziki-assortment-of-feta-646209796.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"42ec9e35-06e3-4340-b408-7c91165a9862":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/stock-photo-chinese-medicine-ingredients-of-the-dishes-prepared-with-medicinal-herbs-dish-570874801.jpg","heading":"Chinese Cuisine Kit","heading_size":"h1","subheading":"","button_label":"Coming Soon","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-2","text_alignment_mobile":"center"}},"77c4d374-2e88-43ce-8fc4-d66a8726201d":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/stock-photo-various-herbs-and-spices-on-black-background-top-view-1835816035.jpg","heading":"Mediterranean Kit","heading_size":"h1","subheading":"","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["60ba9ebb-1542-4b39-b1b3-cb98501011e7","56fae065-186b-40a3-a768-859e8ba43f84","9eaa2d67-cc54-4466-9e72-0ba6f7a6eafd","42ec9e35-06e3-4340-b408-7c91165a9862","77c4d374-2e88-43ce-8fc4-d66a8726201d"],"custom_css":[".banner__box {border-width: 10px; border-color: #ef503e; border-radius: 30px;}","h2 {line-height: 55px;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf":{"type":"image-with-text","blocks":{"template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1":{"type":"heading","settings":{"heading":"<strong>Cook like a pro with our easy-to-follow recipes.<\/strong>","heading_size":"h1"}},"template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1":{"type":"text","settings":{"text":"<p>Our meal kits include all the ingredients you need, so you can whip up a delicious meal in no time.<\/p>","text_style":"body"}},"template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1":{"type":"button","settings":{"button_label":"Coming Soon","button_link":""}}},"block_order":["template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1","template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1","template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1"],"custom_css":[".global-media-settings {border-width: 10px; border-color: #0075bd; border-radius: 30px;}","h2{line-height:55px;}"],"settings":{"image":"shopify:\/\/shop_images\/kits-10_1355b843-c45b-4fca-9b2f-0af8ec3ddf93.gif","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":88,"padding_bottom":88}}},"order":["slideshow","featured-collection-0","8b1b40ae-2c62-4749-9db3-081e6ff31e60","ffb7efe3-349e-45d4-8b7e-4aaf066d041d","69f40509-5aff-4a6a-b297-dc68b6916667","8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_Image_eb1445a2-88fe-408e-b514-4432e7eb90d9.png",
+            "heading": "Stressful days don't have to end with disappointing dinners",
+            "heading_size": "h1",
+            "subheading": "Introducing The Pantry. A simple kit that takes the guesswork out of \"what's for dinner\" to help on those nights where things aren't going to plan.",
+            "button_label": "Buy Now",
+            "link": "shopify:\/\/products\/chinese-capsule",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "custom_css": [
+        "h2 {line-height: 55px;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-11_5607d3b7-711f-495c-b76e-775b89c6c49d.png",
+            "title": "CHOOSE",
+            "text": "<h5>Each kit includes curated, <span style=\"text-decoration:underline\">full-sized ingredients and multiple recipes.<\/span><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons-12_005b388c-240d-4857-b7ed-7e79bf5895ff.png",
+            "title": "COOK",
+            "text": "<h5>Each recipe is ready in <span style=\"text-decoration:underline\">30 minutes or less<\/span>. Add your own fresh protein and vegetables.<\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_deisgn_f17aaa58-8658-42c0-8290-d994d7d3fc8e.png",
+            "title": "REPEAT",
+            "text": "<h5>Reuse your kit over and over. Transform these ingredients into <span style=\"text-decoration:underline\">many winning meals <\/span>with our simple recipes.<\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-1",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-2",
+        "template--19936956678427__8b1b40ae-2c62-4749-9db3-081e6ff31e60-column-3"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 76
+      }
+    },
+    "633240e5-dc1f-4bc1-b884-4f1b2e423ab0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Comparison-Table.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Comparison_Table_7e9fde2a-a609-40bb-bc7d-4858bcf0bb86.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-1",
+        "template--20021976596763__633240e5-dc1f-4bc1-b884-4f1b2e423ab0-column-2"
+      ],
+      "settings": {
+        "title": "How We Stack Up",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Imagine one dinner that works for everyone",
+            "heading_size": "h1"
+          }
+        },
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you love or hate it,  cooking for ourselves and our loved ones can be daunting. The job is only that much harder when you are trying to eat heart-healthy. <\/p><p><strong>We have a better way. <\/strong><\/p><p>Heart-healthy and delicious is possible. <\/p><p>Introducing Capsule Kitchen. We take the overwhelm out of dinner time. <\/p><p>All ingredients transform to delicious heart-healthy meals. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Coming Soon",
+            "button_link": ""
+          }
+        },
+        "420f9ed5-3514-405d-b3ff-1e3acec19515": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-heading-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-text-1",
+        "template--19936956678427__8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf-button-1",
+        "420f9ed5-3514-405d-b3ff-1e3acec19515"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h3 {line-height: 55px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GCK_86e27677-937c-477a-ac52-e3bcc640a2c9.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 88,
+        "padding_bottom": 88
+      }
+    },
+    "83b6ab39-5589-4692-90ce-3c4c7f7ecb39": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "{text-align: center;}",
+        ".grid {justify-content: center;}",
+        ".product-card-wrapper .card,.contains-card--product {--image-padding: 0px;}"
+      ],
+      "settings": {
+        "title": "<strong>Save 50% off your first order<\/strong>",
+        "heading_size": "h1",
+        "description": "<p>One box. Many, many meals. <\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "our-capsules",
+        "products_to_show": 2,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "8b328ecb-05c9-4c89-974f-9f0c63391237": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/check_icon_a41cc39a-eced-4cf6-92ce-ca6263628319.png",
+            "title": "Low Fat",
+            "text": "<p>≤3g of fat per 100g serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/check_icon_a41cc39a-eced-4cf6-92ce-ca6263628319.png",
+            "title": "Low Cholesterol",
+            "text": "<p>≤20mg of cholesterol per 100g serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3561442d-bc3b-4b67-8de5-df8cc1bdddb2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/check_icon_a41cc39a-eced-4cf6-92ce-ca6263628319.png",
+            "title": "Low Sat Fat",
+            "text": "<p>≤1g of sat fat per 100g serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f09405e5-b189-4969-a75f-1798c63bce48": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/check_icon_a41cc39a-eced-4cf6-92ce-ca6263628319.png",
+            "title": "Sodium",
+            "text": "<p>&lt;960mg per meal serving<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-1",
+        "template--20021976596763__8b328ecb-05c9-4c89-974f-9f0c63391237-column-2",
+        "3561442d-bc3b-4b67-8de5-df8cc1bdddb2",
+        "f09405e5-b189-4969-a75f-1798c63bce48"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "{text-align: center;}"
+      ],
+      "settings": {
+        "title": "All recipes are <em><strong>Dietitian Approved<\/strong><\/em> and developed with these guidelines in mind: ",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "020b91c8-6eb3-4e50-8b1a-6231e3e210e4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover a world of new ingredients, inspiring flavors, and easy recipes",
+            "heading_size": "h1"
+          }
+        },
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-heading-1",
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-text-1",
+        "template--20021976596763__020b91c8-6eb3-4e50-8b1a-6231e3e210e4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MicrosoftTeams-image-_169.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "e728595f-93cc-4ef5-aa09-a306297e506e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready To Order?",
+            "heading_size": "h1"
+          }
+        },
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/products\/chinese-capsule",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/products\/chinese-capsule",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-heading-1",
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-text-1",
+        "template--20021976596763__e728595f-93cc-4ef5-aa09-a306297e506e-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3b775f41-fa3e-4cbf-aa29-064bc17b459d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/food_idea.png",
+            "title": "Moo Goo Gai Pan",
+            "text": "<p>Serves: 4<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_deisgn-35_6b6bed4f-61d8-4878-86f8-b1f709b78083.png",
+            "title": "Chicken Tinga Tacos",
+            "text": "<p>Serves: 4<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_deisgn-36_2901c84e-1116-4bd9-bc35-e82c8a6d29f1.png",
+            "title": "Moroccan-Inspired Chicken Couscous",
+            "text": "<p>Serves: 4<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fb523f56-39af-43e1-8876-5c6e559662ef": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_deisgn-37_a776fc99-5816-433f-8813-17ae4e3bb1c3.png",
+            "title": "Sesame Salmon Rice Bowls",
+            "text": "<p>Serves: 4<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-1",
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-2",
+        "template--20021976596763__3b775f41-fa3e-4cbf-aa29-064bc17b459d-column-3",
+        "fb523f56-39af-43e1-8876-5c6e559662ef"
+      ],
+      "settings": {
+        "title": "Delicious & Flexible Recipes. Dietitian Approved.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b58985ae-38f4-4d0f-9ef8-cd5a630fbca4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"The flavor and taste were so good. My whole family really liked this meal which says alot with 6 & 8 year old daughters. There wasn't anything I would change about this. I've already been asked to make it again.\"<br\/><br\/>- Christina<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"An intriguing idea for someone who needs ideas for dinner and doesn't have these sauces and spices on hand.  Good Table is just the kind of fit for my family.\" <br\/><br\/>- Erin<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"Good Table is a better service for me because I like to pick out my own vegetables and meats. It's nice not to spend too much time consumed with cooking dinner when I could be spending it with my family.\" <\/p><p>- Courtney<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-1",
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-2",
+        "template--20021976596763__b58985ae-38f4-4d0f-9ef8-cd5a630fbca4-column-3"
+      ],
+      "settings": {
+        "title": "What People Are Saying",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>\"<\/strong>After so many meal kits, nothing compares to this. It's the perfect balance of useful products and simple recipes to try. And it also promotes health and home cooking for the family\"",
+            "heading_size": "h2"
+          }
+        },
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Amber L.<\/p>"
+          }
+        },
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-heading-1",
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-text-1",
+        "template--20021976596763__1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 88,
+        "padding_bottom": 88
+      }
+    },
+    "f331787f-8e2e-4efe-8e33-35b476f7019b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the Team",
+            "heading_size": "h1"
+          }
+        },
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are a team guided by one purpose: to make heart-healthy living more joyful. We believe it starts with food. Our carefully sourced ingredients and thoughtfully crafted recipes aim to empower you to make every meal a nourishing one for you and your family.<\/p>"
+          }
+        },
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-heading-1",
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-text-1",
+        "template--20021976596763__f331787f-8e2e-4efe-8e33-35b476f7019b-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "0d887d20-f314-4326-a8e4-aa6b69262b7a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the Team",
+            "heading_size": "h1"
+          }
+        },
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "We are a team guided by one purpose: to make heart-healthy living more joyful. We believe it starts with food. Our carefully sourced ingredients and thoughtfully crafted recipes aim to empower you to make every meal a nourishing one for you and your family.",
+            "text_style": "body"
+          }
+        },
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-heading-1",
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-text-1",
+        "template--20021976596763__0d887d20-f314-4326-a8e4-aa6b69262b7a-buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "8b1b40ae-2c62-4749-9db3-081e6ff31e60",
+    "633240e5-dc1f-4bc1-b884-4f1b2e423ab0",
+    "8d07ea4e-a0bc-43ca-898c-9d5a9a17bddf",
+    "83b6ab39-5589-4692-90ce-3c4c7f7ecb39",
+    "8b328ecb-05c9-4c89-974f-9f0c63391237",
+    "020b91c8-6eb3-4e50-8b1a-6231e3e210e4",
+    "e728595f-93cc-4ef5-aa09-a306297e506e",
+    "3b775f41-fa3e-4cbf-aa29-064bc17b459d",
+    "b58985ae-38f4-4d0f-9ef8-cd5a630fbca4",
+    "1b10cd99-7ff1-48ec-9bd6-b1c1c8f4e749",
+    "f331787f-8e2e-4efe-8e33-35b476f7019b",
+    "0d887d20-f314-4326-a8e4-aa6b69262b7a"
+  ]
+}

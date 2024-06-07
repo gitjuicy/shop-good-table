@@ -114,6 +114,32 @@
   </div>
 </div>
 
+<script>
+  (function() {
+    const section = document.getElementById('shopify-section-{{ section.id }}');
+    section.querySelector('form').addEventListener('submit', function(e) {
+      console.log('test')
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      const email = section.querySelector('input[name="contact[email]"]').value;
+      fetch('https://ratiopim.juicyorange.com/api/shopgoodtable/subscribe', {
+          method: 'POST',
+          mode: 'cors',
+          cache: 'no-cache',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ email: email })
+        }
+      ).then(response => response.json()).then(data => {
+        if (data)
+          section.querySelector('form').innerHTML = "<div style='text-align:center; width: 100%;'>Thank you!</div>";
+      }).catch(() => {
+      });
+    });
+  })();
+</script>
+
 {% schema %}
 {
   "name": "t:sections.newsletter.name",
@@ -201,7 +227,7 @@
     {
       "type": "paragraph",
       "name": "t:sections.newsletter.blocks.paragraph.name",
-      "limit": 1,
+      "limit": 2,
       "settings": [
         {
           "type": "richtext",
